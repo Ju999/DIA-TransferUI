@@ -1,0 +1,9 @@
+name: DIA-TransferUI
+main: dokidia\TransferUI
+api: 3.0.0
+version: 1.0.1
+author: dokidia
+
+commands:
+  서버이동:
+    description: 서버이동 UI를 오픈합니다
