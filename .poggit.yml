@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/twk1024/DIA-TransferUI
+build-by-default: true
+branches:
+- master
+projects:
+  DIA-TransferUI:
+    path: ""
+...
